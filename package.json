@@ -36,11 +36,11 @@
     "core-util-is": "^1.0.1",
     "debuglog": "^1.0.1",
     "js-yaml": "^3.2.6",
-    "path-to-regexp": "^1.2.1",
-    "swaggerize-routes": "^1.0.0"
+    "path-to-regexp": "^1.2.1"
   },
   "peerDependencies": {
-    "express": "^4.0.0"
+    "express": "^4.0.0",
+    "swaggerize-routes": "^1.0.0"
   },
   "devDependencies": {
     "tape": "^4.2.2",
